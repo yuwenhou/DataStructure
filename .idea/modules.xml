@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/dataStructure.iml" filepath="$PROJECT_DIR$/dataStructure.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/data structure.iml" filepath="$PROJECT_DIR$/data structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【001】数组和字符串/【001】数组和字符串.iml" filepath="$PROJECT_DIR$/【001】数组和字符串/【001】数组和字符串.iml" />
+>>>>>>> Initial commit
     </modules>
   </component>
 </project>
