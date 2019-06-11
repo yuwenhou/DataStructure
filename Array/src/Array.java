@@ -32,6 +32,11 @@ public class Array<E>{
         return size == 0;
     }
 
+
+
+
+
+
     //向所有元素后新加一个元素
     public void  addLast(E e){
         add(size,e);
